@@ -2,7 +2,7 @@
 
 ### [GMIT 2020 - 1 Semester]
  
-<img height="320" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png">
+<img height="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png">
 
 <br>
 
@@ -21,7 +21,7 @@ This repository contains:
 #### Set up
 ----
 
-Applications used for completion of the project is [vim](https://www.vim.org/), [cmder](http://cmder.net/)
+Applications used for completion of the project is [vim](https://www.vim.org/), [putty](https://www.putty.org/)
 
 #### License
 ----
