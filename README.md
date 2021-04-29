@@ -10,7 +10,7 @@
 This repository contains:
  * a shell script that automates execution of some Linux commands and outputs the result into a text file
  * a shell script program that behaves like an Irish person offering a cup of tea
- * a word document with answers to binary arithmetic and Linux questions, and description of Limux commands that were used in the shell script.
+ * a word document with answers to binary arithmetic and Linux questions, and description of Linux commands that were used in the shell script.
 
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
@@ -26,7 +26,7 @@ Applications used for completion of the project is [vim](https://www.vim.org/), 
 #### License
 ----
 
-This project is licensed under the MIT License - see the LICENSE.md file for details# Web-Application-Development-Project
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 #### Acknowledgment
 ----
